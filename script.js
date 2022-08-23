@@ -14,3 +14,6 @@ console.log (etaDelPasseggero);
 const km =prompt ('Quanti km devi percorrere?');
 const Number = parseInt (km);
 console.log (km)
+
+// price for ticket
+let ticket = km * 0.21;
